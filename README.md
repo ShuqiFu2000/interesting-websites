@@ -2,7 +2,7 @@
 
 A personal collection of interesting, useful, and beautifully made corners of the web.
 
-## History & Interactive Maps
+## History 
 
 ### [江山时序 · 中国历史地图时间轴](https://deanchen.me/jiangshan-map/)
 
@@ -17,7 +17,7 @@ A personal collection of interesting, useful, and beautifully made corners of th
 **Tags:** `history` · `map` · `interactive` · `Long March`
 
 
-## Space & Science
+## Space 
 
 ### [NASA Eyes](https://science.nasa.gov/eyes/)
 
@@ -27,14 +27,4 @@ NASA 的浏览器端 3D 可视化应用合集，利用真实任务数据和图�
 
 ---
 
-## Adding a website
 
-New entries follow this format:
-
-```markdown
-### [Website name](https://example.com/)
-
-A short description explaining why it is interesting.
-
-**Tags:** `tag-one` · `tag-two`
-```
